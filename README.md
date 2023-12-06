@@ -4,7 +4,7 @@
 
 # 👨‍💻 Amit Kumar | Software Developer Extraordinaire 👨‍💻
 
-Greetings! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Amit Kumar, a passionate and results-driven software developer with a penchant for crafting elegant solutions. My journey through the realms of code has equipped me with a diverse skill set and an unwavering commitment to excellence.
+Greetings! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Amit Kumar, a passionate and results-driven software developer with a penchant for crafting elegant solutions. My journey through the realms of code has equipped me with a diverse skill set and an unwavering commitment to excellence.
 
 ## 🚀 About Me
 
