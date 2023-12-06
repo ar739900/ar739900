@@ -51,9 +51,7 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 ## 📽️ Animated Sorcery
 
-<p align="center">
-  <iframe src="https://giphy.com/embed/UCQ5LookOT2ufbsGiT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-transparent-UCQ5LookOT2ufbsGiT">via GIPHY</a></p>"
-</p>
+<iframe src="https://giphy.com/embed/UCQ5LookOT2ufbsGiT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-transparent-UCQ5LookOT2ufbsGiT">via GIPHY</a></p>
 
 ## 📞 Contact the Sorcerer
 
