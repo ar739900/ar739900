@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="<p align="center">
   <img src="https://your-image-url-here" alt="Amit Kumar" width="200" />
 </p>
 
@@ -52,8 +51,9 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 ## 📽️ Animated Sorcery
 
-![Gif]("https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif")
-
+<p align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Magical GIF" />
+</p>
 
 ## 📞 Contact the Sorcerer
 
