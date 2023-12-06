@@ -4,7 +4,9 @@
 
 # 👨‍💻 Amit Kumar | Software Developer Extraordinaire 👨‍💻
 
-<h1> Greetings! ![Namaste](https://media.giphy.com/media/nNKHksPjJDSeV3CUqm/giphy.gif) I'm Amit Kumar, a passionate and results-driven software developer with a penchant for crafting elegant solutions. My journey through the realms of code has equipped me with a diverse skill set and an unwavering commitment to excellence.</h1>
+Greetings! I'm Amit Kumar, a passionate and results-driven software developer with a penchant for crafting elegant solutions. My journey through the realms of code has equipped me with a diverse skill set and an unwavering commitment to excellence.
+
+![Namaste](https://media.giphy.com/media/nNKHksPjJDSeV3CUqm/giphy.gif)
 
 ## 🚀 About Me
 
