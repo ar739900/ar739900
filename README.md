@@ -52,9 +52,7 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 ## 📽️ Animated Sorcery
 
-<p align="center">
-  <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT.gif" alt="Magical GIF" />
-</p>
+![Gif](https://media.giphy.com/media/UCQ5LookOT2ufbsGiT.gif)
 
 # 👨‍💻 Amit Kumar | Software Developer Extraordinaire 👨‍💻
 
