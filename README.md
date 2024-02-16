@@ -49,7 +49,7 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 ## 📽️ Animated Sorcery
 
-<p align="center" height="50%" width="50%">
+<p align="center" height="10" width="10">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Magical GIF" />
 </p>
 
