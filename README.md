@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-image-url-here" alt="Amit Kumar" width="200" />
-</p>
 
 # 👨‍💻 Amit Kumar | Software Developer Extraordinaire 👨‍💻
 
@@ -65,6 +62,9 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 ## 🌐 Social Scrolls
 
+-<p>
+  <img src="https://your-image-url-here" alt="Amit Kumar" width="200" />
+</p>
 - [GitHub](https://github.com/ar739900) - ar739900 (Amit Kumar)
 - [LinkedIn](https://www.linkedin.com/in/amitkumar) - Amit Kumar
 
