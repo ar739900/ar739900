@@ -13,12 +13,12 @@ Greetings! I'm Amit Kumar, a passionate and results-driven software developer wi
     - Government Polytechnic, Banka, Bihar (Aug '16 - Jul '19)
 
 - **Skills:**
-  - **Languages:** Vue.js, React.js, JavaScript, C++
-  - **DevOps:** Linux, AWS, Jenkins
+  - **Languages:** Vue.js, React.js, JavaScript, C++, *Rust
+  - **DevOps:** Linux, AWS
   - **Blockchain:** Proficient in the art of decentralization 🌐
-  - **Project Management:** JIRA, SDLC maestro 🎯
+  - **Project Management:** SDLC 🎯
   - **Data Wizardry:** CSV, XML, JSON sorcerer 🧙‍♂️
-  - **Web Sorcery:** HTML, CSS3, ECMAScript, TypeScript magician 🎩✨
+  - **Web Sorcery:** HTML, Tailwind CSS, JavaScript magician 🎩✨
 
 ## 🌟 Summary
 
@@ -49,7 +49,7 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 ## 📽️ Animated Sorcery
 
-<p align="center">
+<p align="center" height="50%" width="50%">
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Magical GIF" />
 </p>
 
