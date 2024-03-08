@@ -57,13 +57,12 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 - **Phone:** 8789998757 ☎️
 - **Email:** ar739900@gmail.com 📧
-- **Dwelling:** At suratpur, shiv mandir gali, near by rcm shop, Greater noida, UP, 201306
+- **Dwelling:** At suratpur, shiv mandir gali, near by rcm shop, Greater noida, UP, 201306 
 - **Date of Birth:** 20th Jan 2001 📅
 
 ## 🌐 Social Scrolls
 
 - [Frontend Demo](https://eclectic-snickerdoodle-1aeb82.netlify.app/)
-- [GitHub](https://github.com/ar739900) - ar739900 (Amit Kumar)
 - [LinkedIn](https://www.linkedin.com/in/amitkumar) - Amit Kumar
 
 ## 🌈 Unleash the Imagination
