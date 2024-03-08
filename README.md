@@ -62,9 +62,7 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 ## 🌐 Social Scrolls
 
--<p>
-  <link src="https://eclectic-snickerdoodle-1aeb82.netlify.app/" alt="Amit Kumar" />
-</p>
+- [Frontend Demo](https://eclectic-snickerdoodle-1aeb82.netlify.app/)
 - [GitHub](https://github.com/ar739900) - ar739900 (Amit Kumar)
 - [LinkedIn](https://www.linkedin.com/in/amitkumar) - Amit Kumar
 
