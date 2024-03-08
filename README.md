@@ -57,7 +57,7 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 
 - **Phone:** 8789998757 ☎️
 - **Email:** ar739900@gmail.com 📧
-- **Dwelling:** Vastu Vihar, phase 1, Baijani, Bhagalpur, 812005 🏡
+- **Dwelling:** At suratpur, shiv mandir gali, near by rcm shop, Greater noida, UP, 201306
 - **Date of Birth:** 20th Jan 2001 📅
 
 ## 🌐 Social Scrolls
