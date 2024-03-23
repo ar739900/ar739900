@@ -47,17 +47,11 @@ Behold the celestial tapestry of my projects, each shining bright in its own con
 5. **Frontend Projects**
    - *Technologies:* HTML, CSS, JavaScript, Tailwind CSS & Bootstrap spells
 
-## 📽️ Animated Sorcery
-
-<p align="center" height="10" width="10">
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Magical GIF" />
-</p>
-
 ## 📞 Contact the Sorcerer
 
 - **Phone:** 8789998757 ☎️
 - **Email:** ar739900@gmail.com 📧
-- **Dwelling:** At suratpur, shiv mandir gali, near by rcm shop, Greater noida, UP, 201306 
+- **Dwelling:** Greater noida, UP, 201306 
 - **Date of Birth:** 20th Jan 2001 📅
 
 ## 🌐 Social Scrolls
