@@ -28,25 +28,6 @@ Highly motivated and results-driven software developer with a knack for turning 
 
 My academic journey reads like an epic tale, from the hallowed halls of Lok Nayak Jai Prakash Institute of Technology to the electrifying world of Government Polytechnic. Each chapter a stepping stone in the grand saga of my technological saga.
 
-## 🌌 Projects Galaxy
-
-Behold the celestial tapestry of my projects, each shining bright in its own constellation:
-
-1. **Decentralized Voting System**
-   - *Technologies:* React.js, Web3.js (Hardhat spellbook)
-
-2. **Basic Shop Web App**
-   - *Technologies:* Vue.js, Firebase, Quasar Framework enchantments
-
-3. **E-commerce Backend Project**
-   - *Technologies:* Express alchemy
-
-4. **DevOps Project**
-   - *Technologies:* Shell Script sorcery, Ubuntu incantations
-
-5. **Frontend Projects**
-   - *Technologies:* HTML, CSS, JavaScript, Tailwind CSS & Bootstrap spells
-
 ## 📞 Contact the Sorcerer
 
 - **Phone:** 8789998757 ☎️
