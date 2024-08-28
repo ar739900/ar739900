@@ -16,13 +16,12 @@ Greetings! I'm Amit Kumar, a passionate and results-driven software developer wi
   - **Languages:** Vue.js, React.js, JavaScript, C++, *Rust
   - **DevOps:** Linux, AWS
   - **Blockchain:** Proficient in the art of decentralization 🌐
-  - **Project Management:** SDLC 🎯
   - **Data Wizardry:** CSV, XML, JSON sorcerer 🧙‍♂️
   - **Web Sorcery:** HTML, Tailwind CSS, JavaScript magician 🎩✨
 
 ## 🌟 Summary
 
-Highly motivated and results-driven software developer with a knack for turning code into magic. I thrive in the enchanted realms of SDLC, weave spells with CI/CD pipelines, and summon the power of the cloud for my digital incantations.
+Highly motivated and results-driven software developer with a knack for turning code into magic.
 
 ## 📚 Education Chronicles
 
