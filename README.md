@@ -27,7 +27,7 @@ Highly motivated and results-driven software developer with a knack for turning 
 
 My academic journey reads like an epic tale, from the hallowed halls of Lok Nayak Jai Prakash Institute of Technology to the electrifying world of Government Polytechnic. Each chapter a stepping stone in the grand saga of my technological saga.
 
-## 📞 Contact the Sorcerer
+## 📞 Contact Me
 
 - **Phone:** 8789998757 ☎️
 - **Email:** ar739900@gmail.com 📧
