@@ -1,5 +1,5 @@
 
-# 👨‍💻 Amit Kumar | Software Developer Extraordinaire 👨‍💻
+# 👨‍💻 Amit Kumar | Software Developer 👨‍💻
 
 Greetings! I'm Amit Kumar, a passionate and results-driven software developer with a penchant for crafting elegant solutions. My journey through the realms of code has equipped me with a diverse skill set and an unwavering commitment to excellence.
 
