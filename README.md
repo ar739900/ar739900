@@ -29,10 +29,7 @@ My academic journey reads like an epic tale, from the hallowed halls of Lok Naya
 
 ## 📞 Contact Me
 
-- **Phone:** 8789998757 ☎️
 - **Email:** ar739900@gmail.com 📧
-- **Dwelling:** Greater noida, UP, 201306 
-- **Date of Birth:** 20th Jan 2001 📅
 
 ## 🌐 Social Scrolls
 
